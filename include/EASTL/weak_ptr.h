@@ -1,17 +1,12 @@
 ///////////////////////////////////////////////////////////////////////////////
-// Copyright (c) Electronic Arts Inc. All rights reserved.
+// 版权声明
+// 版权所有© Electronic Arts Inc. 保留所有权利。
 ///////////////////////////////////////////////////////////////////////////////
-
 
 #ifndef EASTL_WEAK_PTR_H
 #define EASTL_WEAK_PTR_H
 
-
-// This header file is deprecated. The implementation has moved:
+// 此头文件已弃用。实现已移动至：
 #include <EASTL/shared_ptr.h>
 
-
 #endif
-
-
-
